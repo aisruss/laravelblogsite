@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb2899d-7415-40f2-85bd-b67aeefba93c" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/moontoast/math" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/michaeljennings/refinery" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/telescope" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UnhUp9bmXmLqiL5mO7wr0NRs88" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Container&#9;null&#9;null&#10;web.&#9;FILE&#9;file://C:/laragon/www/laravelblogsite/routes/web.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projects/dacb" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\laravelblogsite\resources\views\Blog" />
+      <recent name="C:\laragon\www\laravelblogsite\resources\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\laravelblogsite\resources\views\Blog" />
+      <recent name="C:\laragon\www\laravelblogsite\resources\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb2899d-7415-40f2-85bd-b67aeefba93c" name="Default" comment="" />
+      <created>1553678141898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553678141898</updated>
+      <workItem from="1558341697923" duration="23000" />
+      <workItem from="1558367403746" duration="78000" />
+      <workItem from="1575998286496" duration="1282000" />
+      <workItem from="1576054799053" duration="7243000" />
+      <workItem from="1576487088809" duration="349000" />
+      <workItem from="1577962299715" duration="1019000" />
+      <workItem from="1578505675411" duration="601000" />
+      <workItem from="1578558355869" duration="6406000" />
+      <workItem from="1578655701112" duration="2416000" />
+      <workItem from="1578904924719" duration="5572000" />
+      <workItem from="1578996883365" duration="599000" />
+      <workItem from="1579077306805" duration="10414000" />
+      <workItem from="1579101944848" duration="40000" />
+      <workItem from="1579105775655" duration="1626000" />
+      <workItem from="1579522785553" duration="36000" />
+      <workItem from="1579684657218" duration="37000" />
+      <workItem from="1579691352387" duration="2809000" />
+      <workItem from="1580386387337" duration="167000" />
+      <workItem from="1593175580814" duration="2450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1593184798415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593184798415" />
+  </component>
+</project>
